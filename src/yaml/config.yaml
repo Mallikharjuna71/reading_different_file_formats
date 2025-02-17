@@ -1,0 +1,11 @@
+person:
+  name: Alice
+  age: 30
+  languages:
+    - Python
+    - JavaScript
+    - SQL
+  address:
+    street: "123 Main St"
+    city: "New York"
+    zip: "10001"
